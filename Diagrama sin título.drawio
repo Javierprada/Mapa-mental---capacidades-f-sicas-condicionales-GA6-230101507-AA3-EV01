@@ -91,9 +91,6 @@
         <mxCell id="DVRhljdq_z2ZrViTuBWU-16" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;Exclusión política&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="931" y="1303" width="113" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-17" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;FARC (Fuerzas Armadas Revolucionarias de Colombia)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#66FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="883" y="808" width="168" height="87" as="geometry" />
-        </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-18" value="&lt;strong data-end=&quot;594&quot; data-start=&quot;577&quot;&gt;Fuerza máxima&lt;/strong&gt; &lt;br&gt;(peso elevado)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#33FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="1036" y="482" width="142" height="77" as="geometry" />
         </mxCell>
@@ -102,9 +99,6 @@
         </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-20" value="&lt;strong data-end=&quot;691&quot; data-start=&quot;671&quot;&gt;Fuerza explosiva&lt;/strong&gt; (movimientos rápidos e intensos)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#66FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="761" y="608" width="149" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-21" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;Fuerza pública / Estado&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#66FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="785" y="732" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-22" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;1982: Inicio de diálogos de paz con FARC (Betancur)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" parent="1" vertex="1">
           <mxGeometry x="1229" y="1225" width="169" height="83" as="geometry" />
@@ -283,26 +277,6 @@
             <Array as="points">
               <mxPoint x="1126" y="628" />
               <mxPoint x="1076" y="578" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-49" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;exitX=0.633;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DVRhljdq_z2ZrViTuBWU-3" target="DVRhljdq_z2ZrViTuBWU-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1018" y="693" as="sourcePoint" />
-            <mxPoint x="1049" y="622" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1042" y="782" />
-              <mxPoint x="987" y="748" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-50" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;exitX=0.02;exitY=0.674;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.976;entryY=0.284;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DVRhljdq_z2ZrViTuBWU-3" target="DVRhljdq_z2ZrViTuBWU-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="901" y="610" as="sourcePoint" />
-            <mxPoint x="857" y="734" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="905" y="666" />
-              <mxPoint x="938" y="737" />
             </Array>
           </mxGeometry>
         </mxCell>
