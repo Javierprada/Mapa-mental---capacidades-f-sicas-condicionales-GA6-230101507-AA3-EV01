@@ -16,8 +16,8 @@
         <mxCell id="DVRhljdq_z2ZrViTuBWU-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 51)); font-size: 19px;&quot;&gt;&lt;b&gt;Hitos relevantes&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="1492" y="1244" width="170" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-5" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 20px; color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255));&quot;&gt;&lt;b&gt;Resistencia&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
-          <mxGeometry x="1552" y="459" width="170" height="95" as="geometry" />
+        <mxCell id="DVRhljdq_z2ZrViTuBWU-5" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 20px; color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255));&quot;&gt;&lt;b&gt;Resistencia&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 51));&quot;&gt;Capacidad de mantener un esfuerzo durante el tiempo.&lt;/font&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 20px; color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255));&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="459" width="182" height="111" as="geometry" />
         </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 51)); font-size: 19px;&quot;&gt;&lt;b&gt;Situación actual&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="2028" y="845" width="170" height="95" as="geometry" />
@@ -124,20 +124,11 @@
         <mxCell id="DVRhljdq_z2ZrViTuBWU-29" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255));&quot;&gt;2019-presente: Disidencias y ELN continúan con presencia armada&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" parent="1" vertex="1">
           <mxGeometry x="1501" y="1054" width="175" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-30" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Desplazamiento forzado&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
+        <mxCell id="DVRhljdq_z2ZrViTuBWU-30" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0)); font-size: 15px;&quot;&gt;&lt;strong style=&quot;&quot; data-end=&quot;908&quot; data-start=&quot;896&quot;&gt;Aeróbica&lt;/strong&gt;:&lt;/font&gt; Esfuerzo prolongado (correr, nadar, ciclismo)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="1279" y="311" width="175" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-31" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Víctimas de violencia (secuestrados, desaparecidos, asesinatos)&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
+        <mxCell id="DVRhljdq_z2ZrViTuBWU-31" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0)); font-size: 15px;&quot;&gt;&lt;strong style=&quot;&quot; data-end=&quot;977&quot; data-start=&quot;963&quot;&gt;Anaeróbica&lt;/strong&gt;:&lt;/font&gt; Esfuerzo intenso y corto (sprints, HIIT)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="1511" y="261" width="175" height="99" as="geometry" />
-        </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-32" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Crisis humanitaria rural&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="1796" y="335" width="175" height="99" as="geometry" />
-        </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-33" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Impacto económico y social&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="1798" y="510" width="175" height="99" as="geometry" />
-        </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-34" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Procesos de reparación y justicia transicional&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="1545" y="666" width="175" height="99" as="geometry" />
         </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.006;entryY=0.299;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" target="DVRhljdq_z2ZrViTuBWU-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -319,36 +310,6 @@
             <Array as="points">
               <mxPoint x="1708" y="419" />
               <mxPoint x="1572" y="414" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-55" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.15;entryY=0.876;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.897;exitY=0.197;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" source="DVRhljdq_z2ZrViTuBWU-5" target="DVRhljdq_z2ZrViTuBWU-32" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1776" y="481" as="sourcePoint" />
-            <mxPoint x="1826" y="431" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1787" y="492" />
-              <mxPoint x="1776" y="431" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-56" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;exitX=0.856;exitY=0.865;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DVRhljdq_z2ZrViTuBWU-5" target="DVRhljdq_z2ZrViTuBWU-33" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1767" y="550" as="sourcePoint" />
-            <mxPoint x="1817" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1733" y="573" />
-              <mxPoint x="1796" y="518" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-57" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;exitX=0.441;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.313;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DVRhljdq_z2ZrViTuBWU-5" target="DVRhljdq_z2ZrViTuBWU-34" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1699" y="560" as="sourcePoint" />
-            <mxPoint x="1795" y="547" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1646" y="560" />
-              <mxPoint x="1672" y="617" />
             </Array>
           </mxGeometry>
         </mxCell>
