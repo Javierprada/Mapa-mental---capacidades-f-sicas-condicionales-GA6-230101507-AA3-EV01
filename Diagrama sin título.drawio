@@ -19,8 +19,8 @@
         <mxCell id="DVRhljdq_z2ZrViTuBWU-5" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 20px; color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255));&quot;&gt;&lt;b&gt;Resistencia&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 51));&quot;&gt;Capacidad de mantener un esfuerzo durante el tiempo.&lt;/font&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 20px; color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255));&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="1540" y="459" width="182" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 51)); font-size: 19px;&quot;&gt;&lt;b&gt;Situación actual&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
-          <mxGeometry x="2028" y="845" width="170" height="95" as="geometry" />
+        <mxCell id="DVRhljdq_z2ZrViTuBWU-6" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 20px; color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255));&quot;&gt;&lt;b&gt;Velocidad&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;Capacidad de realizar un movimiento en el menor tiempo posible.&lt;/font&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 20px; color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255));&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
+          <mxGeometry x="2020" y="845" width="178" height="95" as="geometry" />
         </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#008a00;strokeColor=#005700;startSize=20;endSize=14;fontStyle=0;dashed=1;dashPattern=8 8;startArrow=none;startFill=0;entryX=0.013;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.6;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" parent="1" source="DVRhljdq_z2ZrViTuBWU-1" target="DVRhljdq_z2ZrViTuBWU-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -91,14 +91,14 @@
         <mxCell id="DVRhljdq_z2ZrViTuBWU-16" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;Exclusión política&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="931" y="1303" width="113" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-18" value="&lt;strong data-end=&quot;594&quot; data-start=&quot;577&quot;&gt;Fuerza máxima&lt;/strong&gt; &lt;br&gt;(peso elevado)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#33FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
+        <mxCell id="DVRhljdq_z2ZrViTuBWU-18" value="&lt;strong data-end=&quot;594&quot; data-start=&quot;577&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;Fuerza máxima&lt;/font&gt;&lt;/strong&gt; &lt;br&gt;(peso elevado)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#33FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="1036" y="482" width="142" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-19" value="&lt;strong data-end=&quot;639&quot; data-start=&quot;617&quot;&gt;Fuerza resistencia&lt;/strong&gt; (mantener repeticiones)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#66FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="769" y="600" width="122" height="67" as="geometry" />
+        <mxCell id="DVRhljdq_z2ZrViTuBWU-19" value="&lt;strong data-end=&quot;639&quot; data-start=&quot;617&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;Fuerza resistencia&lt;/font&gt;&lt;/strong&gt; (mantener repeticiones)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#66FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="750" y="590" width="141" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-20" value="&lt;strong data-end=&quot;691&quot; data-start=&quot;671&quot;&gt;Fuerza explosiva&lt;/strong&gt; (movimientos rápidos e intensos)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#66FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="823" y="810" width="149" height="62" as="geometry" />
+        <mxCell id="DVRhljdq_z2ZrViTuBWU-20" value="&lt;span style=&quot;&quot; data-end=&quot;691&quot; data-start=&quot;671&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0));&quot;&gt;Fuerza explosiva&lt;/font&gt;&lt;/b&gt;&lt;/span&gt; (movimientos rápidos e intensos)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#66FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
+          <mxGeometry x="823" y="810" width="147" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-22" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;1982: Inicio de diálogos de paz con FARC (Betancur)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" parent="1" vertex="1">
           <mxGeometry x="1229" y="1225" width="169" height="83" as="geometry" />
