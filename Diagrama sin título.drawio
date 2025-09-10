@@ -95,10 +95,10 @@
           <mxGeometry x="1036" y="482" width="142" height="77" as="geometry" />
         </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-19" value="&lt;strong data-end=&quot;639&quot; data-start=&quot;617&quot;&gt;Fuerza resistencia&lt;/strong&gt; (mantener repeticiones)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#66FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="854" y="505" width="122" height="67" as="geometry" />
+          <mxGeometry x="769" y="600" width="122" height="67" as="geometry" />
         </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-20" value="&lt;strong data-end=&quot;691&quot; data-start=&quot;671&quot;&gt;Fuerza explosiva&lt;/strong&gt; (movimientos rápidos e intensos)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#66FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="761" y="608" width="149" height="62" as="geometry" />
+          <mxGeometry x="823" y="810" width="149" height="62" as="geometry" />
         </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-22" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;1982: Inicio de diálogos de paz con FARC (Betancur)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=light-dark(#97D077,#295A52);" parent="1" vertex="1">
           <mxGeometry x="1229" y="1225" width="169" height="83" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="1279" y="311" width="175" height="99" as="geometry" />
         </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-31" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 0)); font-size: 15px;&quot;&gt;&lt;strong style=&quot;&quot; data-end=&quot;977&quot; data-start=&quot;963&quot;&gt;Anaeróbica&lt;/strong&gt;:&lt;/font&gt; Esfuerzo intenso y corto (sprints, HIIT)." style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="1511" y="261" width="175" height="99" as="geometry" />
+          <mxGeometry x="1797" y="340" width="175" height="99" as="geometry" />
         </mxCell>
         <mxCell id="DVRhljdq_z2ZrViTuBWU-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.006;entryY=0.299;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" target="DVRhljdq_z2ZrViTuBWU-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -271,14 +271,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DVRhljdq_z2ZrViTuBWU-51" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.166;exitY=0.159;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.507;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" source="DVRhljdq_z2ZrViTuBWU-3" target="DVRhljdq_z2ZrViTuBWU-20" edge="1">
+        <mxCell id="DVRhljdq_z2ZrViTuBWU-51" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DVRhljdq_z2ZrViTuBWU-3" target="DVRhljdq_z2ZrViTuBWU-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="962" y="617" as="sourcePoint" />
-            <mxPoint x="864" y="578" as="targetPoint" />
+            <mxPoint x="970" y="750" as="sourcePoint" />
+            <mxPoint x="910" y="810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="928" y="627" />
-              <mxPoint x="909" y="577" />
-              <mxPoint x="822" y="569" />
+              <mxPoint x="1050" y="830" />
+              <mxPoint x="960" y="770" />
+              <mxPoint x="900" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -288,8 +288,7 @@
             <mxPoint x="1085" y="556" as="targetPoint" />
             <Array as="points">
               <mxPoint x="998" y="612" />
-              <mxPoint x="1051" y="563" />
-              <mxPoint x="1005" y="547" />
+              <mxPoint x="930" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -309,7 +308,7 @@
             <mxPoint x="1637" y="333" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1708" y="419" />
-              <mxPoint x="1572" y="414" />
+              <mxPoint x="1840" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
